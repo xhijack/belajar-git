@@ -1,9 +1,9 @@
 print("Hello world")
 print("Assalamualaikum")
 
-x = int(input())
+y = int(input())
 
-for i in range(x):
+for i in range(y):
     if i % 2:
         print("{0} is Even".format(i))
     else:
