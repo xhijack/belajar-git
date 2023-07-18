@@ -8,3 +8,5 @@ for i in range(x):
         print("Even")
     else:
         print("Odd")
+
+print("Terima kasih")
